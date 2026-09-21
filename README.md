@@ -1,6 +1,6 @@
 <p align="center"><img src="images/banner.png" alt="Trading Standards"></p>
 
-> **Looking for the download?** Trading Standards is distributed on [Modrinth](https://modrinth.com/datapack/<your-slug>).
+> **Looking for the download?** Trading Standards is distributed on [Modrinth](https://modrinth.com/datapack/trading_standards).
 > This repository hosts the documentation and the [issue tracker](../../issues).
 
 # Trading Standards
